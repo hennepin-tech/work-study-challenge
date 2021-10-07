@@ -1,0 +1,16 @@
+{
+  "name": "pokefetch",
+  "version": "1.0.0",
+  "description": "Fetch a list from the pokemon api and print their names to the console ",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "-": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jacob Stordahl",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^3.0.0"
+  }
+}
